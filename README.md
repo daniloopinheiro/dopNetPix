@@ -72,12 +72,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues*, propor
 
 ---
 
-## 📜 Licença
-
-MIT License © 2025 [dopme.io](https://dopme.io) — por [Danilo O. Pinheiro](https://www.linkedin.com/in/daniloopinheiro/)
-
----
-
 ## 📬 Contato
 
 Se você trabalha com .NET moderno e deseja dominar arquitetura, C#, DevOps ou interoperabilidade, vamos conversar:
@@ -87,3 +81,13 @@ Se você trabalha com .NET moderno e deseja dominar arquitetura, C#, DevOps ou i
 * 💻 [Dev.to](https://dev.to/daniloopinheiro)
 * 🌐 [shifters.dev](https://shifters.dev/daniloopinheiro)
 * 📬 [contato@dopme.io](mailto:contato@dopme.io)
+
+---
+
+## 📜 Licença
+
+MIT License © 2025 [dopme.io](https://dopme.io) — por [Danilo O. Pinheiro](https://www.linkedin.com/in/daniloopinheiro/)
+
+---
+
+<p align="center"> Feito com ❤️ por <strong>Danilo O. Pinheiro</strong><br/> <a href="https://devsfree.com.br" target="_blank">DevsFree</a> • <a href="https://dopme.io" target="_blank">dopme.io</a> </p>

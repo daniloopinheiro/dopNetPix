@@ -41,7 +41,7 @@ A ideia central é oferecer uma interface **mockada (fake)** de um serviço de i
 dopNetPix/
 │
 ├── src/
-│   ├── API/                # Endpoints RESTful e documentação Swagger
+│   ├── Api/                # Endpoints RESTful e documentação Swagger
 │   ├── Application/        # Casos de uso e DTOs
 │   ├── Domain/             # Entidades, interfaces e regras de negócio
 │   ├── Infrastructure/     # Acesso a dados, serviços externos e mocks

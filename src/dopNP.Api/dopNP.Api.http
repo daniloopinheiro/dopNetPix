@@ -1,0 +1,6 @@
+@dopNP.Api_HostAddress = http://localhost:5103
+
+GET {{dopNP.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

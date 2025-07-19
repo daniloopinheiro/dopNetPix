@@ -1,4 +1,5 @@
 # dopNetPix
+[![dopNetPix .NET](https://github.com/daniloopinheiro/dopNetPix/actions/workflows/dotnet.yml/badge.svg)](https://github.com/daniloopinheiro/dopNetPix/actions/workflows/dotnet.yml)
 
 ## 📌 Descrição
 
